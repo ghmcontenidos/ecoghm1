@@ -1886,10 +1886,13 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #232323, #ffffff) !important;
 }
+.cid-saRaUXjYi4 {
+  background-color: #526551;
+}
 .cid-saRoAHkxxS {
-  background: #181818;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  background: #ffffff;
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
 .cid-saRoAHkxxS .video-block {
   margin: auto;
@@ -1898,9 +1901,6 @@ body {
   .cid-saRoAHkxxS .video-block {
     width: 100% !important;
   }
-}
-.cid-saRaUXjYi4 {
-  background-color: #526551;
 }
 .cid-saRGrdiZnp {
   background-image: url("../../../assets/images/row4-7-9-2020-15-05-28-2000x1124.jpg");
