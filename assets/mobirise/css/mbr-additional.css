@@ -2022,6 +2022,18 @@ body {
 .cid-saRwN1yHCx DIV {
   text-align: center;
 }
+.cid-saYenD9VBV {
+  background: #ffffff;
+}
+.cid-saYenD9VBV .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-saYenD9VBV .video-block {
+    width: 100% !important;
+  }
+}
 .cid-saRyGN0A8z {
   background-image: url("../../../assets/images/monitoreo-2000x1125.jpg");
 }
